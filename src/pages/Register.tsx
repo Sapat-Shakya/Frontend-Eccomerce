@@ -6,7 +6,7 @@ import AuthForm from '../components/AuthForm'
 export default function Register() {
   const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault()
-    // Handle registration logic here
+    //registration
   }
 
   return (
